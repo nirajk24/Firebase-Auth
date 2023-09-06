@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@id/homeFragment"
+        android:icon="@drawable/ic_home" />
+
+<!--    <item android:id="@+id/albumsFragment"-->
+<!--        android:title="@string/albums"-->
+<!--        android:icon="@drawable/ic_album" />-->
+
+    <item android:id="@id/blankFragment"
+        android:icon="@drawable/group"
+        android:iconTint="#2C2C2C"/>
+
+    <item android:id="@id/blankFragment"
+        android:icon="@drawable/transaction"
+        android:iconTint="#2C2C2C"/>
+
+    <item android:id="@id/blankFragment"
+        android:icon="@drawable/ic_profile_fill"
+        android:iconTint="#2C2C2C"/>
+</menu>
